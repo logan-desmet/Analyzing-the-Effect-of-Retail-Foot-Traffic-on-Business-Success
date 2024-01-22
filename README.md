@@ -1,13 +1,13 @@
-# *\*Incomplete\** Analyzing-the-Effect-of-Retail-Foot-Traffic-on-Business-Success
+# Analyzing-the-Effect-of-Retail-Foot-Traffic-on-Business-Success
 
 Please see the presentation above for a full breakdown of the analysis and supplemental graphs - plus key takeaways.
 
-*Note: Due to GitHub file size limitations the yelp database file and the tableau packaged workbooks can be accessed through the provided Google Drive links below.*
+*Note: Due to GitHub file size limitations the Yelp database file and the Tableau packaged workbooks can be accessed through the provided Google Drive links below.*
 
 ---
 
 **Data Sourcing:**
-- Yelp Database: XXX
+- Yelp Database: [yelp.sql](https://drive.google.com/file/d/1_XKWzgsuMtcyuvf2OSon0wErmOe-V0uI/view?usp=sharing)
 - Retail Foot Traffic Database: [United States Retail Foot Traffic Data - Constellation Network](https://app.snowflake.com/marketplace/listing/GZT1ZVTYF7/constellation-network-united-states-retail-foot-traffic-data?search=US%20state%20econ&pricing=free)
 
 ---
@@ -28,6 +28,7 @@ Due to GitHub max file sizes, the Tableau Graphs - with the corresponding slide 
 ---
 
 **Key Takeaways:**
-
-...
+- Businesses grow in popularity on Yelp - meaning they receive more reviews - as a delayed result - roughly a day - of increased local retail foot traffic.
+- Businesses tend to close more often during the winter than other seasons, seemingly not as a result of retail foot traffic - likely instead correlated with the end of the fiscal year.
+- A business category with high average retail foot traffic does not result in more reviews and longer business longevity. There are likely other business factors that impact these averages.
 
